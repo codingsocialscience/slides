@@ -1,0 +1,3 @@
+[submodule "code-examples"]
+	path = code-examples
+	url = git@github.com:codingsocialscience/code-examples.git

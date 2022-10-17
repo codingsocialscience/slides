@@ -86,7 +86,7 @@ Caligula was born in 12 AD and died in 41 AD.
 
 Code is just a text written in a specified syntax.
 
-![width:10cm](figures/chapter2_caligula_age.png)
+![width:10cm](code-examples/chapter2_caligula_age.png)
 
 ---
 
@@ -142,7 +142,7 @@ Proportion of life as emperor: :two: &divide; :one:
 
 ## Programming: Variables
 
-![width:10cm](figures/chapter2_caligula_reign.png)
+![width:10cm](code-examples/chapter2_calingula_reign.png)
 
 ---
 
@@ -188,7 +188,7 @@ In-class activities
 
 `for` loop may be used to repeat commands.
 
-![width:10cm](figures/chapter2_for.png)
+![width:10cm](code-examples/chapter2_for.png)
 
 ---
 
@@ -211,7 +211,7 @@ print( paste("The sum is", sum) )
 
 # Reading files
 
-![bg left:40% 80%](figures/chapter2_reading_file.png)
+![bg left:40% 80%](code-examples/chapter2_reading_file.png)
 
 * Files are read line-by-line, _repating_ the same commands for each line.
 * An iterator is a variable that changes its value after each loop.
@@ -261,7 +261,7 @@ Learning activities
 
 ## Programming: If
 
-![width:20cm](figures/chapter2_if.png)
+![width:20cm](code-examples/chapter2_if.png)
 
 ---
 
