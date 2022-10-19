@@ -184,9 +184,9 @@ In-class learning activities
 
 # Community detection
 
-![bg](figures/network_clusters_modularity.png)
-![bg](figures/network_clusters_edge.png)
-![bg](figures/network_clusters_eigen.png)
+![bg contain](figures/network_clusters_modularity.png)
+![bg contain](figures/network_clusters_edge.png)
+![bg contain](figures/network_clusters_eigen.png)
 
 
 ---
