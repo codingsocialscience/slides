@@ -118,7 +118,7 @@ Ethics is more than how we protect human subjects' and limit the harm our resear
 
 ---
 
-## Ethical sensitivity levels
+## Ethical sensitivity tiers
 
 0. Focus only on factual claims about the subject, without examining the moral questions.
 1. Acknowledge the existence of risks but do not move beyond statements about their presence or nature to ramifications.
