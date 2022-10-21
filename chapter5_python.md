@@ -16,7 +16,7 @@ footer {
 ![bg left:40% 80%](./cover.png)
 
 # Chapter 5
-# Data structures
+# Data structures in Python
 
 ---
 

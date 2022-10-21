@@ -16,7 +16,7 @@ footer {
 ![bg left:40% 80%](./cover.png)
 
 # Chapter 8
-# Best practices for software development
+# Best practices for software development in R
 
 ---
 
