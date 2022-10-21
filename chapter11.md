@@ -76,7 +76,7 @@ Potential learning activities: Exercise 11.2 and 11.3.
 
 ----
 
-In-class activities:
+### Learning activity
 
 * Group discussion: Exercise 11.4
 * Group discussion: Exercise 11.5
@@ -127,9 +127,9 @@ Ethics is more than how we protect human subjects' and limit the harm our resear
 
 ---
 
-In-class activity
+### Learning activity
 
-* Do Exercises 11.7 and 11.8.
+* Group discussion: Exercises 11.7 and 11.8.
 
 ---
 

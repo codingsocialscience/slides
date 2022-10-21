@@ -86,9 +86,9 @@ Functions can be used for
 
 ---
 
-# Learning activities
+### Learning activity
 
-* Coding exercise: 8.1-8.5
+* Code exercise: 8.1-8.5
 
 ---
 
@@ -151,9 +151,9 @@ clf.predict([[2., 2.]])
 
 ---
 
-# Learning activities
+### Learning activity
 
-* Coding exercise 8.6-8.8
+* Code exercise 8.6-8.8
 
 ---
 

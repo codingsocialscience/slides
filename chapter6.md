@@ -79,9 +79,9 @@ Computationally, a simulation process is simple. In many simulations, the focus 
 
 ---
 
-In-class activity
+### Learning activity
 
-Pair or group activity: Exercise 6.1
+Pair or group discussion: Exercise 6.1
 
 ---
 
@@ -148,11 +148,11 @@ More tuned to various background-variables, but still working on the idea of flo
 
 ---
 
-In-class activities
+### Learning activity
 
-* Small group activity: Exercise 6.3
-* Individual activity: Exercise 6.4
-* Small group activity: Exercise 6.7
+* Group discussion: Exercise 6.3
+* Individual exercise: Exercise 6.4
+* Group discussion: Exercise 6.7
 
 ---
 
@@ -171,7 +171,7 @@ In-class activities
 
 ---
 
-In-class activities
+### Learning activity
 
 * Class or pair discussion: Exercise 6.8
 

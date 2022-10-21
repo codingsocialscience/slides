@@ -101,7 +101,7 @@ print(41-12)
 
 ---
 
-In-class activities
+### Learning activity
 
 * Discuss the code editor you are using
 * Demonstrate Code Example with chosen IDE
@@ -188,7 +188,7 @@ print( var1 + var2_as_text )
 
 ---
 
-In-class activities
+### Learning activity
 
 * Do exercises 2.8 and 2.9
 
@@ -238,7 +238,7 @@ for line in open("emperors.txt"):
 
 ---
 
-Learning activities
+### Learning activity
 
 * Do Exercise 2.14
 * Homework assignments: 2.15-2.16
@@ -293,10 +293,10 @@ if reign > 10:
 
 ---
 
-Learning activities
+### Learning activity
 
 * In-class: Do Exercise 2.18
-* In-class: What purposes does each of the four design patterns serve?
+* In-class: What purposes do each of the four design patterns serve?
 * Homework: Do Exercise 2.19, 2.20, 2.24
 
 ---

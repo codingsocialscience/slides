@@ -102,13 +102,11 @@ Therefore, data need to be transformed into a suitable numerical representation,
 
 ---
 
-In-class activities
+### Learning activity
 
-Choose some of the following
-
-* Group activity: Exercise 3.8a
-* Individual or group activity: Exercise 3.1
-* Pair- or group activity: Exercise 3.2
+* Group discussion: Exercise 3.8a
+* Individual or group discussion: Exercise 3.1
+* Pair- or group discussion: Exercise 3.2
 
 ---
 
@@ -131,14 +129,12 @@ Choose some of the following
 
 ---
 
-In-class activities
-
-Choose some of these
+### Learning activity
 
 * Pair discussion: Exercise 3.3
 * Transform Code example 3.1 into a flowchart (see Figure 2.2)
-* Pair-discussion: Do you agree with Code example 3.1? Would you have done it differently?
-* Programming exercise 3.16
+* Pair discussion: Do you agree with Code example 3.1? Would you have done it differently?
+* Programming exercise: 3.16
 
 ---
 
@@ -162,9 +158,9 @@ Choose some of these
 
 ---
 
-In-class activities
+### Learning activity
 
-* Individually: Exercise 3.9
+* Individual exercise: Exercise 3.9
 
 ---
 
@@ -186,13 +182,13 @@ In-class activities
 
 ---
 
-In-class activities 
+### Learning activity 
 
 * Individually or in pairs: Exercise 3.5
 
 ---
 
-Activities for ruled-based, supervised and unsupervised data analysis
+### Learning activities for ruled-based, supervised and unsupervised data analysis
 
 * Group activity: Exercise 3.8b-c
 * Homework: Exercise 3.6 or 3.7

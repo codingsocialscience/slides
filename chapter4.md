@@ -69,10 +69,10 @@ For example: Routes which are one-way only
 
 ---
 
-In-class activities:
+### Learning activity
 
-* Pair or group work: Exercise 4.1
-* Group work: Exercise 4.7
+* Pair or group discussion: Exercise 4.1
+* Group discussion: Exercise 4.7
 
 ---
 
@@ -156,10 +156,10 @@ Networks can be drawn in many ways, which give emphasis to some perspectives and
 
 ---
 
-In-class learning activities
+### Learning activity
 
 * Individual activity: Exercise 4.2
-* Group activity: Exercise 4.3
+* Group discussion: Exercise 4.3
 
 ---
 

@@ -38,7 +38,7 @@ footer {
 
 ---
 
-In-class activity
+### Learning activity
 
 Pair or small group discussion: Exercise 12.1.
 
@@ -93,12 +93,12 @@ Things to consider:
 
 ---
 
-Learning activities
+### Learning activity
 
 * Pair or group discussion: Exercise 12.2
 * Pair or group discussion: Exercise 12.4
 * Individual activity: Exercise 12.9
-* Coding activity: Exercise 12.10 and 12.11
+* Code activity: Exercise 12.10 and 12.11
 
 ---
 
@@ -109,7 +109,7 @@ Learning activities
 
 ---
 
-Learning activities
+### Learning activity
 
 * Class or group discussion: Exercise 12.12
 * Individual activity with group discussion: Exercise 12.13 and 12.14

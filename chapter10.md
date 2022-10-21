@@ -115,10 +115,10 @@ approaches: where is its allegiance?
 
 ---
 
-In-class activities
+### Learning activity
 
-Group activity: Exercise 10.1
-Group activity: Exercise 10.4, Exercise 10.5.
+Group discussion: Exercise 10.1
+Group discussion: Exercise 10.4, Exercise 10.5.
 
 ---
 

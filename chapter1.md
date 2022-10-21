@@ -55,7 +55,7 @@ As social scientist learn to use computers in their research, we can see changes
 
 ---
 
-Potential learning activities at this time (choose from these)
+### Learning activity
 
 * Pair discussion: What reasons the book gives for focusing both on social science and technological imagination?
 * Pair discussion: Exercise 1.3

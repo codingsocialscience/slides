@@ -71,9 +71,9 @@ Experiments allow developing stronger claims than that can be tested through obs
 
 ---
 
-In-class activities
+### Learning activity
 
-* Pair or group activity: Exercise 7.1
+* Pair or group discussion: Exercise 7.1
 * Class discussion: Exercise 7.2
 * Class discussion: Exercise 7.3
 
